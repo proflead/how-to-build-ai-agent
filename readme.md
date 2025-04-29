@@ -1,4 +1,4 @@
-# Step-by-Step: Your First AI Agent (ADK Tutorial) 
+# Your First AI Agent (Google ADK Tutorial): Step-by-Step Tutorial
 
 In this tutorial, I’ll explain in simple terms what AI, AI agents, and workflows are, and then I’ll walk you through building your very first AI agent in Python using Google’s Agent Development Kit (ADK). By the end, you’ll understand the differences between these concepts and have a working content-assistant agent you can run from your terminal or a web interface.
 
